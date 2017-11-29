@@ -1,1 +1,10 @@
-﻿
+﻿ul > li 
+				{ color:red;
+				font-size:12px;
+				font-family:Arial;
+				}
+				ol
+				{ color:green;
+				font-size:12px;
+				font-family:Arial;
+				}

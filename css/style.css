@@ -8,3 +8,21 @@
 				font-size:12px;
 				font-family:Arial;
 				}
+
+				p { color:#f00; font-size:10pt;}
+				#p1{ color:#00f; }
+				
+				.txt{ color:#00f;
+				      font-size:20pt;
+				}
+				
+				:root {
+    background: #000000;
+}
+
+				p {
+    background-color: yellow;
+}
+				h1 {
+    background-color: white;
+}
